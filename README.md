@@ -1,2 +1,2 @@
-# Lenovo-hardware-troubleshooting
+# Office Set up Scotia-Bank
 Onsite Part replacement
